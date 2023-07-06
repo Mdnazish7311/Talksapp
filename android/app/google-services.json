@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "814112876304",
+    "project_id": "talksapp-a7583",
+    "storage_bucket": "talksapp-a7583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814112876304:android:8c28e638c05e8f4d686795",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814112876304-4bmmdavt8f9dlmet96d4ijusplbpsbl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAe7w3ebdB_HXaARlCZZw1JUfhjdrxlT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814112876304-4bmmdavt8f9dlmet96d4ijusplbpsbl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814112876304:android:68cdb6eb6ae2e40b686795",
+        "android_client_info": {
+          "package_name": "com.example.talksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814112876304-4bmmdavt8f9dlmet96d4ijusplbpsbl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAe7w3ebdB_HXaARlCZZw1JUfhjdrxlT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814112876304-4bmmdavt8f9dlmet96d4ijusplbpsbl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
